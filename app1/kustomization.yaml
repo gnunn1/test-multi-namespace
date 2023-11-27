@@ -1,0 +1,4 @@
+namespace: test
+
+resources:
+- github.com/gitops-examples/simple-app-example
